@@ -1,1 +1,2 @@
-# pwa-for-skin-cancer-detection
+# Skin-care-app
+Progressive App for skin-cancer-detection
